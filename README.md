@@ -17,15 +17,10 @@ Computational scientist and applied mathematician specializing in scientific com
 ## Selected Work
 
 ### GEOS / LLNL Scientific Simulation Development
-Contributed to large-scale HPC simulation workflows for multiphysics modeling of heterogeneous materials in collaboration with LLNL. Work included development and maintenance of the material point method effort, performance profiling, and validation.
+Contributed to development and maintenance of the material point method solver for large-scale HPC simulation workflows for multiphysics modeling of heterogeneous materials.
 
 ### MIP Grid – Synthetic Power Grid & Optimization Framework
 C++/Python framework for synthetic power grid generation and mixed-integer programming (MIP)-based optimization.
-
-- Synthetic grid generation with configurable topology and attributes
-- Time-series construction for dynamic simulation workflows
-- HDF5-based snapshot storage for solver pipelines
-- Python interface for optimization and benchmarking workflows
 
 ---
 
