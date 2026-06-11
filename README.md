@@ -40,5 +40,4 @@ C++/Python framework for synthetic power grid generation and mixed-integer progr
 
 ## Links
 
-- GitHub: [https://github.com/jay-a](https://github.com/jay-a)
 - LinkedIn: [https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/jay-appleton/)
