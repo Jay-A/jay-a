@@ -16,11 +16,22 @@ Computational scientist and applied mathematician specializing in scientific com
 
 ## Selected Work
 
-### GEOS / LLNL Scientific Simulation Development
-Contributed to development and maintenance of the material point method solver for large-scale HPC simulation workflows for multiphysics modeling of heterogeneous materials.
+### HLA Cover - mpi4py Parallelized Greedy Cover solver 
+**[HLA Cover](https://github.com/Jay-A/hla_cover)**
 
-### MIP Grid – Synthetic Power Grid & Optimization Framework
-C++/Python framework for synthetic power grid generation and mixed-integer programming (MIP)-based optimization.
+A configurable framework for HLA allele coverage analysis using greedy set cover algorithms. 
+Built in Python with YAML-driven workflows and designed for seamless scaling from notebooks to distributed MPI (mpi4py) execution.
+
+### MIP Grid – Power Grid Analysis Platform
+**[MIP_Grid](https://github.com/Jay-A/mip_grid)**
+
+C++/Python platform for synthetic power grid generation, dynamic time-series construction, HDF5 snapshot management, and solver-ready optimization workflows.
+
+### GEOS / LLNL – Material Point Method Development
+**[GEOS](https://github.com/GEOS-DEV/GEOS)**
+
+Contributed to the development of the Material Point Method (MPM) capability in GEOS, a high-performance multiphysics simulation framework 
+used for subsurface energy, geomechanics, and carbon sequestration research.
 
 ---
 
