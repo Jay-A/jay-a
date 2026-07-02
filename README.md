@@ -19,6 +19,18 @@ Computational scientist and applied mathematician specializing in scientific com
 ### hpcgtfem - revisiting old matlab fem solver in python 
 **[hp-cg-tfem](https://github.com/Jay-A/hpcgtfem)**
 
+This project implements a continuous Galerkin, hp finite element solver on triangular meshes.
+
+It uses a modified Dubiner basis constructed via the Duffy transform and collapsed coordinates,
+following a standard spectral-element formulations on triangles.
+
+The underlying method is described in:
+
+> Appleton, J. M. & Helenbrook, B. T. (2021)  
+> *A High-Order Lower-Triangular Pseudo-Mass Matrix for Explicit Time Advancement of hp Triangular Finite Element Methods*  
+> SIAM Journal on Numerical Analysis  
+> https://arxiv.org/abs/1906.10774
+
 ### HLA Cover - mpi4py Parallelized Greedy Cover solver 
 **[HLA Cover](https://github.com/Jay-A/hla_cover)**
 
