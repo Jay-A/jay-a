@@ -25,11 +25,10 @@ It uses a modified Dubiner basis constructed via the Duffy transform and collaps
 following a standard spectral-element formulations on triangles.
 
 The underlying method is described in:
-
 > Appleton, J. M. & Helenbrook, B. T. (2021)  
 > *A High-Order Lower-Triangular Pseudo-Mass Matrix for Explicit Time Advancement of hp Triangular Finite Element Methods*  
 > SIAM Journal on Numerical Analysis  
-> https://arxiv.org/abs/1906.10774
+> [arXiv:1906.10774](https://arxiv.org/abs/1906.10774)
 
 ### HLA Cover - mpi4py Parallelized Greedy Cover solver 
 **[HLA Cover](https://github.com/Jay-A/hla_cover)**
