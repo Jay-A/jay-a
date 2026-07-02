@@ -17,7 +17,7 @@ Computational scientist and applied mathematician specializing in scientific com
 ## Selected Work
 
 ### hpcgtfem - revisiting old matlab fem solver in python 
-**[hp-cg-tfem]([https://github.com/Jay-A/hla_cover](https://github.com/Jay-A/hpcgtfem))**
+**[hp-cg-tfem](https://github.com/Jay-A/hpcgtfem)**
 
 ### HLA Cover - mpi4py Parallelized Greedy Cover solver 
 **[HLA Cover](https://github.com/Jay-A/hla_cover)**
