@@ -30,6 +30,13 @@ The underlying method is described in:
 > SIAM Journal on Numerical Analysis  
 > [arXiv:1906.10774](https://arxiv.org/abs/1906.10774)
 
+### opt-modeling-lab - This is an optimization modeling lab
+**[opt-modeling-lab](https://github.com/Jay-A/opt-modeling-lab)**
+
+Opt Backend Lab is an educational toolkit for exploring optimization modeling across multiple mixed-integer programming 
+(MIP) solver backends through a common interface. Here, through the use of an aliasing wrapper, we can use various 
+optimization backends to learn about implementation, performance, and modelilng optimization problems.
+
 ### HLA Cover - mpi4py Parallelized Greedy Cover solver 
 **[HLA Cover](https://github.com/Jay-A/hla_cover)**
 
@@ -60,4 +67,4 @@ used for subsurface energy, geomechanics, and carbon sequestration research.
 
 ## Links
 
-- LinkedIn: [https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/jay-appleton/)
+- LinkedIn: [https://www.linkedin.com/in/jay-appleton/](https://www.linkedin.com/in/jay-appleton/)
