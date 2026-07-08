@@ -2,6 +2,7 @@
 
 Computational scientist and applied mathematician specializing in scientific computing, high-performance computing, and simulation-driven data systems.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-A&layout=compact)
 ---
 
 ## Focus Areas
