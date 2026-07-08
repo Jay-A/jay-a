@@ -37,6 +37,21 @@ Opt Backend Lab is an educational toolkit for exploring optimization modeling ac
 (MIP) solver backends through a common interface. Here, through the use of an aliasing wrapper, we can use various 
 optimization backends to learn about implementation, performance, and modelilng optimization problems.
 
+### Wortwerk – German Vocabulary Learning Application
+**[Wortwerk](https://github.com/Jay-A/wortwerk)**
+
+A React + TypeScript vocabulary learning application for studying German vocabulary through interactive flashcards and
+targeted grammar practice.
+
+Features include:
+- German vocabulary flashcards
+- Substantiv (noun) practice with der / die / das article testing
+- Multiple-choice definition questions
+- CSV-based vocabulary loading
+- Automated build and deployment through GitHub Actions and GitHub Pages
+
+Built with React, TypeScript, Vite, and modern frontend tooling.
+
 ### HLA Cover - mpi4py Parallelized Greedy Cover solver 
 **[HLA Cover](https://github.com/Jay-A/hla_cover)**
 
