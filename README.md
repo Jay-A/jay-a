@@ -2,7 +2,13 @@
 
 Computational scientist and applied mathematician specializing in scientific computing, high-performance computing, and simulation-driven data systems.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-A&layout=compact)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
 ---
 
 ## Focus Areas
