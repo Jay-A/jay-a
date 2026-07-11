@@ -1,6 +1,6 @@
 # Jay M. Appleton
 
-Computational scientist and applied mathematician specializing in scientific computing, high-performance computing, and simulation-driven data systems.
+Software engineer, computational scientist, and applied mathematician specializing in scalable software systems, scientific computing, machine learning, and high-performance computing for data-intensive, simulation-driven, and computational engineering applications.
 
 - LinkedIn: [https://www.linkedin.com/in/jay-appleton/](https://www.linkedin.com/in/jay-appleton/)
 
@@ -19,11 +19,11 @@ Computational scientist and applied mathematician specializing in scientific com
 
 ## Focus Areas
 
-- High-performance scientific computing (HPC)
-- Numerical methods for PDEs and computational mechanics
-- Large-scale simulation and model validation
-- Data-driven analysis of physical systems
-- Optimization and constrained system modeling
+- Scientific computing, HPC, and distributed systems
+- Machine learning and data-intensive applications
+- Backend and full-stack software engineering
+- Data pipelines and workflow automation
+- Numerical algorithms, simulation, and optimization
 
 ---
 
