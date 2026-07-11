@@ -2,7 +2,7 @@
 
 Computational scientist and applied mathematician specializing in scientific computing, high-performance computing, and simulation-driven data systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Appleton-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-appleton/)
+- LinkedIn: [https://www.linkedin.com/in/jay-appleton/](https://www.linkedin.com/in/jay-appleton/)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -91,8 +91,4 @@ used for subsurface energy, geomechanics, and carbon sequestration research.
 **Data & ML:** NumPy, SciPy, pandas, PyTorch, TensorFlow  
 **Tools:** Git, CMake, Jupyter, LaTeX  
 
----
 
-## Links
-
-- LinkedIn: [https://www.linkedin.com/in/jay-appleton/](https://www.linkedin.com/in/jay-appleton/)
