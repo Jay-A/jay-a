@@ -2,6 +2,9 @@
 
 Computational scientist and applied mathematician specializing in scientific computing, high-performance computing, and simulation-driven data systems.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Appleton-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-appleton/)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white)
