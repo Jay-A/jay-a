@@ -29,6 +29,12 @@ Software engineer, computational scientist, and applied mathematician specializi
 
 ## Selected Work
 
+### GEOS / LLNL – Material Point Method Development
+**[GEOS](https://github.com/GEOS-DEV/GEOS)**
+
+Contributed to the development of the Material Point Method (MPM) capability in GEOS, a high-performance multiphysics simulation framework 
+used for subsurface energy, geomechanics, and carbon sequestration research.
+
 ### hpcgtfem - revisiting old matlab fem solver in python 
 **[hp-cg-tfem](https://github.com/Jay-A/hpcgtfem)**
 
@@ -99,12 +105,6 @@ Built in Python with YAML-driven workflows and designed for seamless scaling fro
 **[MIP_Grid](https://github.com/Jay-A/mip_grid)**
 
 C++/Python platform for synthetic power grid generation, dynamic time-series construction, HDF5 snapshot management, and solver-ready optimization workflows.
-
-### GEOS / LLNL – Material Point Method Development
-**[GEOS](https://github.com/GEOS-DEV/GEOS)**
-
-Contributed to the development of the Material Point Method (MPM) capability in GEOS, a high-performance multiphysics simulation framework 
-used for subsurface energy, geomechanics, and carbon sequestration research.
 
 ---
 
