@@ -43,6 +43,30 @@ The underlying method is described in:
 > SIAM Journal on Numerical Analysis  
 > [arXiv:1906.10774](https://arxiv.org/abs/1906.10774)
 
+### nnlab – Neural Network Lab for Experimental Learning Systems
+**[nnlab](https://github.com/Jay-A/nnlab)**
+
+An experimental neural network framework for studying machine learning systems
+through transparent, modular components and controlled computational experiments.
+
+Rather than treating neural networks as black-box prediction systems, `nnlab`
+focuses on understanding the interaction between:
+
+- model architecture,
+- activation function behavior,
+- optimization dynamics,
+- feature representation,
+- and learning outcomes.
+
+The framework implements configurable feed-forward neural networks, custom
+parameterized activation kernels, automatic differentiation-style backward
+propagation, optimization algorithms, and reproducible experiments exploring
+learning behavior.
+
+Current investigations include activation kernel comparisons, architecture
+studies, optimization experiments, and sensor-based machine learning
+applications.
+
 ### opt-modeling-lab - This is an optimization modeling lab
 **[opt-modeling-lab](https://github.com/Jay-A/opt-modeling-lab)**
 
