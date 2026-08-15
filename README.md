@@ -1,6 +1,6 @@
 # Jay M. Appleton
 
-Software engineer, computational scientist, and applied mathematician specializing in scalable software systems, scientific computing, machine learning, and high-performance computing for data-intensive, simulation-driven, and computational engineering applications.
+Applied mathematician and simulation/software engineer specializing in numerical methods, scientific software, computational modeling, and high-performance computing.
 
 - LinkedIn: [https://www.linkedin.com/in/jay-appleton/](https://www.linkedin.com/in/jay-appleton/)
 
